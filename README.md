@@ -1,7 +1,7 @@
 # 🏙️ Future City Project | مشروع مدينة المستقبل
 
-> A student-designed sustainable smart city — car-free, solar-powered, and built around people.
-> A student project by **Mohammed Khaled** with his school team.
+> **🔗 Note:** Visit the project page for a richer experience and more information:  
+> [https://hammed9992.github.io/future-city/](https://hammed9992.github.io/future-city/)
 
 ![Future City model](city-model.jpg)
 
